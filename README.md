@@ -1,13 +1,28 @@
 # Hey 👋 What's up?
 
 ## About Me:
-Hi! I'm **Sajini Malindya**, a passionate student from Sri Lanka. I have recently completed high school and earned my diploma. I'm highly motivated and eager to learn, with a solid foundation in academic achievements and practical skills. Through coursework, extracurricular activities, and hands-on experiences, I’ve developed excellent communication, teamwork, and leadership abilities.
 
-I am committed to personal growth, continuous learning, and am always ready to adapt quickly to new challenges. I thrive under pressure and am looking forward to growing both academically and professionally.
+Hi! I'm **Sajini Malindya**, a passionate student from Sri Lanka.
+<div align="left" style="position: relative;">
+  <!-- Image with transparency -->
+  <img src="https://user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif" 
+       width="150" 
+       height="150" 
+       alt="Sajini Malindya" 
+       style="border-radius: 50%; opacity: 0.3; position: absolute; top: 0; left: 0;" />
+  
+  <!-- Text will appear beside the image -->
+  <p style="margin-left: 160px; opacity: 1;">
+    I have recently completed high school and earned my diploma. I'm highly motivated and eager to learn, with a solid foundation in academic achievements and practical skills. Through coursework, extracurricular activities, and hands-on experiences, I’ve developed excellent communication, teamwork, and leadership abilities.
+  </p>
+  <p>
+    I am committed to personal growth, continuous learning, and am always ready to adapt quickly to new challenges. I thrive under pressure and am looking forward to growing both academically and professionally.
+  </p>
+</div>
+
 
 ## Currently Learning:
-✨ Creating bugs since...<br> 
-📚 I’m currently learning **Java**<br> 
+📔I’m currently learning **Java**<br> 
 🎯 Goals: To improve my coding skills and contribute to the tech community<br> 
 🎲 Hello World!
 
